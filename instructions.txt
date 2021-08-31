@@ -1,3 +1,3 @@
-hello "Word"
+hello "Wordl"
 "10 naturals numbers"
 take 10 naturals
