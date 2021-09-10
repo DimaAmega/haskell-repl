@@ -1,4 +1,4 @@
-### HASKELL PERL
+### HASKELL REPL
 Just run 
 ```bash
 sh ./run_instructions.sh . instructions.txt main.hs
